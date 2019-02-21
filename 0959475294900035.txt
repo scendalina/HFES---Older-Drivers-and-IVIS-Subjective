@@ -1,0 +1,10 @@
+John Sweller,
+Cognitive load theory, learning difficulty, and instructional design,
+Learning and Instruction,
+Volume 4, Issue 4,
+1994,
+Pages 295-312,
+ISSN 0959-4752,
+https://doi.org/10.1016/0959-4752(94)90003-5.
+(http://www.sciencedirect.com/science/article/pii/0959475294900035)
+Abstract: This paper is concerned with some of the factors that determine the difficulty of material that needs to be learned. It is suggested that when considering intellectual activities, schema acquisition and automation are the primary mechanisms of learning. The consequences of cognitive load theory for the structuring of information in order to reduce difficulty by focusing cognitive activity on schema acquisition is briefly summarized. It is pointed out that cognitive load theory deals with learning and problem solving difficulty that is artificial in that it can be manipulated by instructional design. Intrinsic cognitive load in contrast, is constant for a given area because it is a basic component of the material. Intrinsic cognitive load is characterized in terms of element interactivity. The elements of most schemas must be learned simultaneously because they interact and it is the interaction that is critical. If, as in some areas, interactions between many elements must be learned, then intrinsic cognitive load will be high. In contrast, in different areas, if elements can be learned successively rather than simultaneously because they do not interact, intrinsic cognitive load will be low. It is suggested that extraneous cognitive load that interferes with learning only is a problem under conditions of high cognitive load caused by high element interactivity. Under conditions of low element interactivity, re-designing instruction to reduce extraneous cognitive load may have no appreciable consequences. In addition, the concept of element interactivity can be used to explain not only why some material is difficult to learn but also, why it can be difficult to understand. Understanding becomes relevant when high element interactivity material with a naturally high cognitive load must be learned.
